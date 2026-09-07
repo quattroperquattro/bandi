@@ -1,128 +1,128 @@
 {
   "portali": [
     {
-      "base": "https://adepp-appalti.maggiolicloud.it/PortaleAppalti/",
+      "base": "https://adspauctgare.maggiolicloud.it/PortaleAppalti/",
       "enti": [
-        "CASSA ITALIANA DI PREVIDENZA ED ASSISTENZA GEOMETRI LIBERI PROFESSIONISTI"
+        "AUTORITA' DI SISTEMA PORTUALE DEL MARE DI SICILIA ORIENTALE"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
+      "ultimi_avvisi": 7,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://appalti-comune-alghero.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "CENTRALE UNICA DI COMMITTENZA DEL COMUNE DI ALGHERO"
+      ],
+      "visto": "2026-09-07",
+      "ultimi_avvisi": 4,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://appalti.comune.pescara.it/PortaleAppalti/",
+      "enti": [
+        "COMUNE DI PESCARA"
+      ],
+      "visto": null,
+      "falliti_di_fila": 1,
+      "ultimo_fallimento": "2026-09-07"
+    },
+    {
+      "base": "https://aspmessina-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "AZIENDA SANITARIA PROVINCIALE DI MESSINA"
+      ],
+      "visto": "2026-09-07",
       "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
     {
-      "base": "https://appalti.cittametropolitana.ct.it/PortaleAppalti/",
+      "base": "https://cinecaerp.ubuy.cineca.it/PortaleAppalti/",
       "enti": [
-        "CITTA' METROPOLITANA DI CATANIA"
+        "CINECA CONSORZIO INTERUNIVERSITARIO"
       ],
       "visto": null,
       "falliti_di_fila": 1,
-      "ultimo_fallimento": "2026-08-31"
+      "ultimo_fallimento": "2026-09-07"
     },
     {
-      "base": "https://appalti.comune.ferrara.it/PortaleAppalti/",
+      "base": "https://formez-appalti.maggiolicloud.it/PortaleAppalti/",
       "enti": [
-        "COMUNE DI FERRARA"
+        "FORMEZ PA"
       ],
-      "visto": null,
-      "falliti_di_fila": 1,
-      "ultimo_fallimento": "2026-08-31"
-    },
-    {
-      "base": "https://appalti.comune.grugliasco.to.it/PortaleAppalti/",
-      "enti": [
-        "COMUNE DI GRUGLIASCO"
-      ],
-      "visto": null,
-      "falliti_di_fila": 1,
-      "ultimo_fallimento": "2026-08-31"
-    },
-    {
-      "base": "https://appalti.provincia.cuneo.it/PortaleAppalti/",
-      "enti": [
-        "PROVINCIA DI CUNEO"
-      ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 2,
       "falliti_di_fila": 0
     },
     {
-      "base": "https://appalti.unityfvg.it/PortaleAppalti/",
+      "base": "https://gare.servizicontarina.it/PortaleAppalti/",
       "enti": [
-        "UNIVERSITA' DEGLI STUDI DI UDINE"
+        "CONTARINA SPA SOCIETA' CON UNICO SOCIO"
       ],
-      "visto": "2026-08-31",
-      "ultimi_avvisi": 10,
+      "visto": "2026-09-07",
+      "ultimi_avvisi": 3,
       "falliti_di_fila": 0
     },
     {
-      "base": "https://comuneluino-appalti.maggiolicloud.it/PortaleAppalti/",
+      "base": "https://izslt.maggiolicloud.it/PortaleAppalti/",
       "enti": [
-        "COMUNE DI LUINO"
+        "IST.ZOOPROFILATTICO SPERIMENTALE DEL LAZIO E DELLA TOSCANA ''M.ALEANDRI''"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
+      "ultimi_avvisi": 9,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://portaleappalti.comune.bari.it/PortaleAppalti/",
+      "enti": [
+        "COMUNE DI BARI"
+      ],
+      "visto": null,
+      "falliti_di_fila": 1,
+      "ultimo_fallimento": "2026-09-07"
+    },
+    {
+      "base": "https://strettodimessina-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "STRETTO DI MESSINA - S.P.A."
+      ],
+      "visto": "2026-09-07",
+      "ultimi_avvisi": 2,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://unisi.ubuy.cineca.it/PortaleAppalti/",
+      "enti": [
+        "UNIVERSITA' DEGLI STUDI DI SIENA"
+      ],
+      "visto": null,
+      "falliti_di_fila": 1,
+      "ultimo_fallimento": "2026-09-07"
+    },
+    {
+      "base": "https://www.comune.codigoro.fe.it/PortaleAppalti/",
+      "enti": [
+        "COMUNE DI CODIGORO"
+      ],
+      "visto": "2026-09-07",
       "ultimi_avvisi": 1,
       "falliti_di_fila": 0
     },
     {
-      "base": "https://comunetaranto-appalti.maggiolicloud.it/PortaleAppalti/",
+      "base": "https://adepp-appalti.maggiolicloud.it/PortaleAppalti/",
       "enti": [
-        "COMUNE DI TARANTO"
+        "CASSA ITALIANA DI PREVIDENZA ED ASSISTENZA GEOMETRI LIBERI PROFESSIONISTI"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 10,
       "falliti_di_fila": 0
-    },
-    {
-      "base": "https://cuc-comunitamontanativoli.org/PortaleAppalti/",
-      "enti": [
-        "CUC-IX COMUNITA' MONTANA DEL LAZIO"
-      ],
-      "visto": null,
-      "falliti_di_fila": 1,
-      "ultimo_fallimento": "2026-08-31"
-    },
-    {
-      "base": "https://edisupiemonte-appalti.maggiolicloud.it/PortaleAppalti/",
-      "enti": [
-        "ENTE REG PER IL DIRITTO ALLO STUDIO UNIV"
-      ],
-      "visto": "2026-08-31",
-      "ultimi_avvisi": 0,
-      "falliti_di_fila": 0
-    },
-    {
-      "base": "https://gare.astralspa.it/PortaleAppalti/",
-      "enti": [
-        "AZIENDA STRADE LAZIO - ASTRAL S.P.A"
-      ],
-      "visto": "2026-08-31",
-      "ultimi_avvisi": 10,
-      "falliti_di_fila": 0
-    },
-    {
-      "base": "https://portaleappalti.sace.it/PortaleAppalti/",
-      "enti": [
-        "SACE SRV"
-      ],
-      "visto": null,
-      "falliti_di_fila": 1,
-      "ultimo_fallimento": "2026-08-31"
-    },
-    {
-      "base": "https://unibg.ubuy.cineca.it/PortaleAppalti/",
-      "enti": [
-        "UNIVERSITA' DEGLI STUDI DI BERGAMO"
-      ],
-      "visto": null,
-      "falliti_di_fila": 1,
-      "ultimo_fallimento": "2026-08-31"
     },
     {
       "base": "https://appalti.aspes.it/PortaleAppalti/",
       "enti": [
         "ASPES SPA"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 3,
       "falliti_di_fila": 0
     },
@@ -131,7 +131,7 @@
       "enti": [
         "CITTA' METROPOLITANA DI MESSINA"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 0,
       "falliti_di_fila": 0
     },
@@ -140,7 +140,7 @@
       "enti": [
         "COMUNE DI BARLETTA"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 5,
       "falliti_di_fila": 0
     },
@@ -149,7 +149,7 @@
       "enti": [
         "COMUNE DI CAMPOBASSO"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 3,
       "falliti_di_fila": 0
     },
@@ -158,7 +158,7 @@
       "enti": [
         "COMUNE DI GENOVA"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
@@ -167,8 +167,26 @@
       "enti": [
         "COMUNE DI RAVENNA"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 5,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://appalti.provincia.cuneo.it/PortaleAppalti/",
+      "enti": [
+        "PROVINCIA DI CUNEO"
+      ],
+      "visto": "2026-09-07",
+      "ultimi_avvisi": 2,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://appalti.unityfvg.it/PortaleAppalti/",
+      "enti": [
+        "UNIVERSITA' DEGLI STUDI DI UDINE"
+      ],
+      "visto": "2026-09-07",
+      "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
     {
@@ -176,8 +194,8 @@
       "enti": [
         "CONCESSIONI AUTOSTRADALI VENETE - CAV S.P.A."
       ],
-      "visto": "2026-08-31",
-      "ultimi_avvisi": 6,
+      "visto": "2026-09-07",
+      "ultimi_avvisi": 8,
       "falliti_di_fila": 0
     },
     {
@@ -185,8 +203,26 @@
       "enti": [
         "COMUNE DI MONTEFIASCONE"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 1,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://comuneluino-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "COMUNE DI LUINO"
+      ],
+      "visto": "2026-09-07",
+      "ultimi_avvisi": 1,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://comunetaranto-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "COMUNE DI TARANTO"
+      ],
+      "visto": "2026-09-07",
+      "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
     {
@@ -194,8 +230,26 @@
       "enti": [
         "CENTRALE UNICA DI COMMITTENZA - ALTO TIRRENO COSENTINO"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 1,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://edisupiemonte-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "ENTE REG PER IL DIRITTO ALLO STUDIO UNIV"
+      ],
+      "visto": "2026-09-07",
+      "ultimi_avvisi": 0,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://gare.astralspa.it/PortaleAppalti/",
+      "enti": [
+        "AZIENDA STRADE LAZIO - ASTRAL S.P.A"
+      ],
+      "visto": "2026-09-07",
+      "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
     {
@@ -203,7 +257,7 @@
       "enti": [
         "RAI RADIOTELEVISIONE ITALIANA S.P.A."
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 1,
       "falliti_di_fila": 0
     },
@@ -212,7 +266,7 @@
       "enti": [
         "AZIENDA OSPEDALIERA UNIVERSITARIA G. MARTINO"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 0,
       "falliti_di_fila": 0
     },
@@ -221,7 +275,7 @@
       "enti": [
         "COMUNE DI RIBERA"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 1,
       "falliti_di_fila": 0
     },
@@ -230,8 +284,8 @@
       "enti": [
         "COMUNE DI PALERMO"
       ],
-      "visto": "2026-08-31",
-      "ultimi_avvisi": 5,
+      "visto": "2026-09-07",
+      "ultimi_avvisi": 4,
       "falliti_di_fila": 0
     },
     {
@@ -239,7 +293,7 @@
       "enti": [
         "PROVVEDITORATO INTERREGIONALE PER LE OPERE PUBBLICHE PER LA CAMPANIA MOLISE PUGLIA E BASILICATA"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
@@ -248,7 +302,7 @@
       "enti": [
         "UNIONE MADONIE"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 3,
       "falliti_di_fila": 0
     },
@@ -257,7 +311,7 @@
       "enti": [
         "SOCIETA' AEROPORTUALE CALABRESE S.P.A."
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 4,
       "falliti_di_fila": 0
     },
@@ -266,7 +320,7 @@
       "enti": [
         "SOCIETA' METROPOLITANA ACQUE TORINO S.P.A. IN ALTERNATIVA SMA TORINO S.P.A. OVVERO SMAT S.P.A."
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 4,
       "falliti_di_fila": 0
     },
@@ -275,7 +329,7 @@
       "enti": [
         "STAZIONE APPALTANTE UNICA PROVINCIA DI NOVARA"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 9,
       "falliti_di_fila": 0
     },
@@ -284,7 +338,7 @@
       "enti": [
         "PROVINCIA DELLA SPEZIA"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 0,
       "falliti_di_fila": 0
     },
@@ -293,7 +347,7 @@
       "enti": [
         "AMMINISTRAZIONE PROVINCIALE DI VITERBO"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 3,
       "falliti_di_fila": 0
     },
@@ -302,7 +356,7 @@
       "enti": [
         "COMUNE DI SAN GIORGIO A CREMANO"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 3,
       "falliti_di_fila": 0
     },
@@ -311,7 +365,7 @@
       "enti": [
         "REGIONE BASILICATA"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 0,
       "falliti_di_fila": 0
     },
@@ -320,9 +374,63 @@
       "enti": [
         "COMUNE DI PIETRAGALLA"
       ],
-      "visto": "2026-08-31",
+      "visto": "2026-09-07",
       "ultimi_avvisi": 3,
       "falliti_di_fila": 0
+    },
+    {
+      "base": "https://appalti.cittametropolitana.ct.it/PortaleAppalti/",
+      "enti": [
+        "CITTA' METROPOLITANA DI CATANIA"
+      ],
+      "visto": "2026-09-07",
+      "falliti_di_fila": 0,
+      "ultimi_avvisi": 1
+    },
+    {
+      "base": "https://appalti.comune.ferrara.it/PortaleAppalti/",
+      "enti": [
+        "COMUNE DI FERRARA"
+      ],
+      "visto": null,
+      "falliti_di_fila": 2,
+      "ultimo_fallimento": "2026-09-07"
+    },
+    {
+      "base": "https://appalti.comune.grugliasco.to.it/PortaleAppalti/",
+      "enti": [
+        "COMUNE DI GRUGLIASCO"
+      ],
+      "visto": null,
+      "falliti_di_fila": 2,
+      "ultimo_fallimento": "2026-09-07"
+    },
+    {
+      "base": "https://cuc-comunitamontanativoli.org/PortaleAppalti/",
+      "enti": [
+        "CUC-IX COMUNITA' MONTANA DEL LAZIO"
+      ],
+      "visto": null,
+      "falliti_di_fila": 2,
+      "ultimo_fallimento": "2026-09-07"
+    },
+    {
+      "base": "https://portaleappalti.sace.it/PortaleAppalti/",
+      "enti": [
+        "SACE SRV"
+      ],
+      "visto": null,
+      "falliti_di_fila": 2,
+      "ultimo_fallimento": "2026-09-07"
+    },
+    {
+      "base": "https://unibg.ubuy.cineca.it/PortaleAppalti/",
+      "enti": [
+        "UNIVERSITA' DEGLI STUDI DI BERGAMO"
+      ],
+      "visto": null,
+      "falliti_di_fila": 2,
+      "ultimo_fallimento": "2026-09-07"
     },
     {
       "base": "https://appalti.amt.genova.it/PortaleAppalti/",
@@ -330,8 +438,8 @@
         "AZIENDA MOBILITA' E TRASPORTI S.P.A."
       ],
       "visto": null,
-      "falliti_di_fila": 2,
-      "ultimo_fallimento": "2026-08-31"
+      "falliti_di_fila": 3,
+      "ultimo_fallimento": "2026-09-07"
     },
     {
       "base": "https://appalti.cittametropolitana.ve.it/PortaleAppalti/",
@@ -339,8 +447,8 @@
         "CITTA METROPOLITANA DI VENEZIA"
       ],
       "visto": null,
-      "falliti_di_fila": 2,
-      "ultimo_fallimento": "2026-08-31"
+      "falliti_di_fila": 3,
+      "ultimo_fallimento": "2026-09-07"
     },
     {
       "base": "https://gare.comune.torino.it/PortaleAppalti/",
@@ -348,8 +456,8 @@
         "COMUNE DI TORINO"
       ],
       "visto": null,
-      "falliti_di_fila": 2,
-      "ultimo_fallimento": "2026-08-31"
+      "falliti_di_fila": 3,
+      "ultimo_fallimento": "2026-09-07"
     },
     {
       "base": "https://gareappalti.zetema.it/PortaleAppalti/",
@@ -357,8 +465,8 @@
         "ZETEMA PROGETTO CULTURA SRL"
       ],
       "visto": null,
-      "falliti_di_fila": 2,
-      "ultimo_fallimento": "2026-08-31"
+      "falliti_di_fila": 3,
+      "ultimo_fallimento": "2026-09-07"
     },
     {
       "base": "https://garetelematiche.provincia.terni.it/PortaleAppalti/",
@@ -366,8 +474,8 @@
         "AMMINISTRAZIONE PROVINCIALE DI TERNI"
       ],
       "visto": null,
-      "falliti_di_fila": 2,
-      "ultimo_fallimento": "2026-08-31"
+      "falliti_di_fila": 3,
+      "ultimo_fallimento": "2026-09-07"
     },
     {
       "base": "https://gtaomn.regione.marche.it/PortaleAppalti/",
@@ -375,17 +483,19 @@
         "AZIENDA SANITARIA TERRITORIALE DI PESARO E URBINO"
       ],
       "visto": null,
-      "falliti_di_fila": 2,
-      "ultimo_fallimento": "2026-08-31"
+      "falliti_di_fila": 3,
+      "ultimo_fallimento": "2026-09-07"
     },
     {
       "base": "https://gtmultie.regione.marche.it/PortaleAppalti/",
       "enti": [
-        "AGENZIA REGIONALE SANITARIA MARCHE"
+        "AGENZIA REGIONALE SANITARIA MARCHE",
+        "ASP AMBITO 9",
+        "CUC JESI  -MONSANO - SANTA MARIA NUOVA"
       ],
       "visto": null,
-      "falliti_di_fila": 2,
-      "ultimo_fallimento": "2026-08-31"
+      "falliti_di_fila": 3,
+      "ultimo_fallimento": "2026-09-07"
     },
     {
       "base": "https://umpotenzaesino-appalti.regione.marche.it/PortaleAppalti/",
@@ -393,8 +503,8 @@
         "UNIONE MONTANA POTENZA ESINO MUSONE"
       ],
       "visto": null,
-      "falliti_di_fila": 2,
-      "ultimo_fallimento": "2026-08-31"
+      "falliti_di_fila": 3,
+      "ultimo_fallimento": "2026-09-07"
     },
     {
       "base": "https://unife.ubuy.cineca.it/PortaleAppalti/",
@@ -402,9 +512,9 @@
         "UNIVERSITA DEGLI STUDI DI FERRARA"
       ],
       "visto": null,
-      "falliti_di_fila": 2,
-      "ultimo_fallimento": "2026-08-31"
+      "falliti_di_fila": 3,
+      "ultimo_fallimento": "2026-09-07"
     }
   ],
-  "aggiornato": "2026-08-31"
+  "aggiornato": "2026-09-07"
 }
