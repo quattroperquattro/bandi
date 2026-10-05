@@ -1,10 +1,10 @@
 {
-  "quando": "2026-09-21T10:26:07.425222+00:00",
+  "quando": "2026-10-05T12:07:05.087859+00:00",
   "fasi": [
     {
       "fase": "endpoint_diretto",
-      "items": 495
+      "items": 432
     }
   ],
-  "totale_normalizzati": 495
+  "totale_normalizzati": 432
 }
