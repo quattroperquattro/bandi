@@ -1,139 +1,194 @@
 {
   "portali": [
     {
-      "base": "https://abclatina-appalti.maggiolicloud.it/PortaleAppalti/",
+      "base": "https://appalti.agenziapiemontelavoro.it/PortaleAppalti/",
       "enti": [
-        "AZIENDA PER I BENI COMUNI DI LATINA"
+        "AGENZIA PIEMONTE LAVORO"
       ],
-      "visto": "2026-10-05",
-      "ultimi_avvisi": 3,
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 0,
       "falliti_di_fila": 0
     },
     {
-      "base": "https://appalti-ast5ap.sanita.marche.it/PortaleAppalti/",
+      "base": "https://appalti.invalsi.it/PortaleAppalti/",
       "enti": [
-        "AZIENDA SANITARIA TERRITORIALE DI ASCOLI PICENO"
+        "ISTITUTO NAZIONALE PER LA VALUTAZIONE DEL SISTEMA EDUCATIVO DI ISTRUZIONE E DI FORMAZIONE"
       ],
-      "visto": null,
-      "falliti_di_fila": 1,
-      "ultimo_fallimento": "2026-10-05"
-    },
-    {
-      "base": "https://appalti.asmvoghera.it/PortaleAppalti/",
-      "enti": [
-        "A.S.M. VOGHERA S.P.A."
-      ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 1,
       "falliti_di_fila": 0
     },
     {
-      "base": "https://appalti.comune.arzignano.vi.it/PortaleAppalti/",
+      "base": "https://cuclevalli-appalti.maggiolicloud.it/PortaleAppalti/",
       "enti": [
-        "COMUNE DI ARZIGNANO"
+        "CENTRALE UNICA COMMITTENZA CONSORZIO LE VALLI"
       ],
-      "visto": "2026-10-05",
-      "ultimi_avvisi": 0,
-      "falliti_di_fila": 0
-    },
-    {
-      "base": "https://appalti.comune.vicenza.it/PortaleAppalti/",
-      "enti": [
-        "COMUNE DI VICENZA"
-      ],
-      "visto": "2026-10-05",
-      "ultimi_avvisi": 10,
-      "falliti_di_fila": 0
-    },
-    {
-      "base": "https://appalti.infrastrutturevenete.it/PortaleAppalti/",
-      "enti": [
-        "INFRASTRUTTURE VENETE S.R.L."
-      ],
-      "visto": "2026-10-05",
-      "ultimi_avvisi": 10,
-      "falliti_di_fila": 0
-    },
-    {
-      "base": "https://appaltisuam.regione.marche.it/PortaleAppalti/",
-      "enti": [
-        "ENTE REGIONE MARCHE"
-      ],
-      "visto": null,
-      "falliti_di_fila": 1,
-      "ultimo_fallimento": "2026-10-05"
-    },
-    {
-      "base": "https://aterpcalabria-appalti.maggiolicloud.it/PortaleAppalti/",
-      "enti": [
-        "AZIENDA TERRITORIALE EDILIZIA RESIDENZIALE PUBBLICA CALABRIA"
-      ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 2,
       "falliti_di_fila": 0
     },
     {
-      "base": "https://avepa-appalti.maggiolicloud.it/PortaleAppalti/",
+      "base": "https://infogare.comune.brescia.it/PortaleAppalti/",
       "enti": [
-        "AGENZIA VENETA PER I PAGAMENTI"
+        "COMUNE DI BRESCIA"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 10,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://provinciadipadova-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "PROVINCIA DI PADOVA"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 1,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://sitbelluno-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "OPERE PIE DI ONIGO"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 10,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://sua.provincia.pu.it/PortaleAppalti/",
+      "enti": [
+        "PROVINCIA DI PESARO E URBINO"
+      ],
+      "visto": "2026-10-12",
       "ultimi_avvisi": 0,
       "falliti_di_fila": 0
     },
     {
-      "base": "https://gare.comune.montecchio-maggiore.vi.it/PortaleAppalti/",
+      "base": "https://venetolavoro.maggiolicloud.it/PortaleAppalti/",
       "enti": [
-        "CENTRALE UNICA DI COMMITTENZA M.B.M.V"
+        "VENETO LAVORO"
       ],
-      "visto": null,
-      "falliti_di_fila": 1,
-      "ultimo_fallimento": "2026-10-05"
-    },
-    {
-      "base": "https://garetelematiche.tecnoservicecamere.it/PortaleAppalti/",
-      "enti": [
-        "TECNOSERVICECAMERE S.C.P.A."
-      ],
-      "visto": null,
-      "falliti_di_fila": 1,
-      "ultimo_fallimento": "2026-10-05"
-    },
-    {
-      "base": "https://gtprmc.regione.marche.it/PortaleAppalti/",
-      "enti": [
-        "PROVINCIA DI MACERATA"
-      ],
-      "visto": null,
-      "falliti_di_fila": 1,
-      "ultimo_fallimento": "2026-10-05"
-    },
-    {
-      "base": "https://pomezia-appalti.maggiolicloud.it/PortaleAppalti/",
-      "enti": [
-        "STAZIONE UNICA APPALTANTE CITTA' DI POMEZIA - CITTA' DI APRILIA"
-      ],
-      "visto": "2026-10-05",
-      "ultimi_avvisi": 6,
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 8,
       "falliti_di_fila": 0
     },
     {
-      "base": "https://portaleappalti-asppalermo.maggiolicloud.it/PortaleAppalti/",
+      "base": "https://www.centralecommittenzacollinamaterana.it/PortaleAppalti/",
       "enti": [
-        "A.S.P. AZIENDA SANITARIA PROVINCIALE"
+        "ASSOCIAZIONE CONSORTILE COLLINA MATERANA"
       ],
-      "visto": null,
-      "falliti_di_fila": 1,
-      "ultimo_fallimento": "2026-10-05"
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 1,
+      "falliti_di_fila": 0
     },
     {
-      "base": "https://unimi.ubuy.cineca.it/PortaleAppalti/",
+      "base": "https://portaleappalti.smatorino.it/PortaleAppalti/",
       "enti": [
-        "UNIVERSITA' DEGLI STUDI DI MILANO"
+        "SOCIETA' METROPOLITANA ACQUE TORINO S.P.A. IN ALTERNATIVA SMA TORINO S.P.A. OVVERO SMAT S.P.A."
       ],
-      "visto": null,
-      "falliti_di_fila": 1,
-      "ultimo_fallimento": "2026-10-05"
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 4,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://portalegare.avmspa.it/PortaleAppalti/",
+      "enti": [
+        "VE.LA SPA"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 7,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://portvenice-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "AUTORITA' DI SISTEMA PORTUALE DEL MARE ADRIATICO SETTENTRIONALE"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 3,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://prov-taranto.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "PROVINCIA DI TARANTO"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 3,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://provincia-novara.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "STAZIONE APPALTANTE UNICA PROVINCIA DI NOVARA"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 9,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://provinciasp-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "PROVINCIA DELLA SPEZIA"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 0,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://provviterbo-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "AMMINISTRAZIONE PROVINCIALE DI VITERBO"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 3,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://sangiorgioacremano-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "COMUNE DI SAN GIORGIO A CREMANO"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 3,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://strettodimessina-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "STRETTO DI MESSINA - S.P.A."
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 2,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://www.comune.codigoro.fe.it/PortaleAppalti/",
+      "enti": [
+        "COMUNE DI CODIGORO"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 0,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://www.suaprovinciapotenza.it/PortaleAppalti/",
+      "enti": [
+        "COMUNE DI PIETRAGALLA",
+        "PROVINCIA DI POTENZA"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 3,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://abclatina-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "AZIENDA PER I BENI COMUNI DI LATINA"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 3,
+      "falliti_di_fila": 0
     },
     {
       "base": "https://adepp-appalti.maggiolicloud.it/PortaleAppalti/",
@@ -141,7 +196,7 @@
         "CASSA ITALIANA DI PREVIDENZA ED ASSISTENZA GEOMETRI LIBERI PROFESSIONISTI",
         "ENTE NAZIONALE PREVIDENZA ASSISTENZA FARMACISTI"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
@@ -150,7 +205,7 @@
       "enti": [
         "AUTORITA' DI SISTEMA PORTUALE DEL MARE DI SICILIA ORIENTALE"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 7,
       "falliti_di_fila": 0
     },
@@ -159,7 +214,7 @@
       "enti": [
         "CENTRALE UNICA DI COMMITTENZA DEL COMUNE DI ALGHERO"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 4,
       "falliti_di_fila": 0
     },
@@ -168,8 +223,17 @@
       "enti": [
         "COMUNE DI MONREALE"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 0,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://appalti.asmvoghera.it/PortaleAppalti/",
+      "enti": [
+        "A.S.M. VOGHERA S.P.A."
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 1,
       "falliti_di_fila": 0
     },
     {
@@ -177,7 +241,7 @@
       "enti": [
         "ASPES SPA"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 3,
       "falliti_di_fila": 0
     },
@@ -186,7 +250,7 @@
       "enti": [
         "CITTA' METROPOLITANA DI CATANIA"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "falliti_di_fila": 0,
       "ultimi_avvisi": 1
     },
@@ -195,7 +259,16 @@
       "enti": [
         "CITTA' METROPOLITANA DI MESSINA"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 0,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://appalti.comune.arzignano.vi.it/PortaleAppalti/",
+      "enti": [
+        "COMUNE DI ARZIGNANO"
+      ],
+      "visto": "2026-10-12",
       "ultimi_avvisi": 0,
       "falliti_di_fila": 0
     },
@@ -204,8 +277,8 @@
       "enti": [
         "COMUNE DI BARLETTA"
       ],
-      "visto": "2026-10-05",
-      "ultimi_avvisi": 5,
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 6,
       "falliti_di_fila": 0
     },
     {
@@ -213,7 +286,7 @@
       "enti": [
         "COMUNE DI CAGLIARI"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
@@ -222,7 +295,7 @@
       "enti": [
         "COMUNE DI CAMPOBASSO"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 3,
       "falliti_di_fila": 0
     },
@@ -231,7 +304,7 @@
       "enti": [
         "COMUNE DI GENOVA"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
@@ -240,8 +313,17 @@
       "enti": [
         "COMUNE DI RAVENNA"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 2,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://appalti.comune.vicenza.it/PortaleAppalti/",
+      "enti": [
+        "COMUNE DI VICENZA"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
     {
@@ -249,7 +331,7 @@
       "enti": [
         "ENTE NAZIONALE DI PREVIDENZA ED ASSISTENZA MEDICI"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
@@ -258,7 +340,16 @@
       "enti": [
         "FERROVIENORD SOCIETA' PER AZIONI"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 10,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://appalti.infrastrutturevenete.it/PortaleAppalti/",
+      "enti": [
+        "INFRASTRUTTURE VENETE S.R.L."
+      ],
+      "visto": "2026-10-12",
       "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
@@ -267,7 +358,7 @@
       "enti": [
         "PROVINCIA DI CUNEO"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 2,
       "falliti_di_fila": 0
     },
@@ -276,7 +367,7 @@
       "enti": [
         "PROVINCIA DI FOGGIA"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 7,
       "falliti_di_fila": 0
     },
@@ -285,7 +376,7 @@
       "enti": [
         "AMMINISTRAZIONE PROVINCIALE IMPERIA"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 3,
       "falliti_di_fila": 0
     },
@@ -294,7 +385,7 @@
       "enti": [
         "UNIVERSITA' DEGLI STUDI DI UDINE"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
@@ -303,8 +394,8 @@
       "enti": [
         "COMUNE DI RIMINI"
       ],
-      "visto": "2026-10-05",
-      "ultimi_avvisi": 7,
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 8,
       "falliti_di_fila": 0
     },
     {
@@ -314,15 +405,34 @@
       ],
       "visto": "2026-10-05",
       "ultimi_avvisi": 5,
-      "falliti_di_fila": 0
+      "falliti_di_fila": 1,
+      "ultimo_fallimento": "2026-10-12"
     },
     {
       "base": "https://aspmessina-appalti.maggiolicloud.it/PortaleAppalti/",
       "enti": [
         "AZIENDA SANITARIA PROVINCIALE DI MESSINA"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 10,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://aterpcalabria-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "AZIENDA TERRITORIALE EDILIZIA RESIDENZIALE PUBBLICA CALABRIA"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 2,
+      "falliti_di_fila": 0
+    },
+    {
+      "base": "https://avepa-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "AGENZIA VENETA PER I PAGAMENTI"
+      ],
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 0,
       "falliti_di_fila": 0
     },
     {
@@ -330,7 +440,7 @@
       "enti": [
         "CENTRALE UNICA DI COMMITTENZA DELL'AREA SELE-PICENTINI"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 1,
       "falliti_di_fila": 0
     },
@@ -339,8 +449,8 @@
       "enti": [
         "CONCESSIONI AUTOSTRADALI VENETE - CAV S.P.A."
       ],
-      "visto": "2026-10-05",
-      "ultimi_avvisi": 5,
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 6,
       "falliti_di_fila": 0
     },
     {
@@ -348,7 +458,7 @@
       "enti": [
         "COMUNE DI MONTEFIASCONE"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 1,
       "falliti_di_fila": 0
     },
@@ -357,7 +467,7 @@
       "enti": [
         "COMUNE DI LUINO"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 1,
       "falliti_di_fila": 0
     },
@@ -366,7 +476,7 @@
       "enti": [
         "COMUNE DI SANREMO"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 0,
       "falliti_di_fila": 0
     },
@@ -375,7 +485,7 @@
       "enti": [
         "COMUNE DI TARANTO"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 10,
       "falliti_di_fila": 0
     },
@@ -384,8 +494,8 @@
       "enti": [
         "COMUNE DI TRANI"
       ],
-      "visto": "2026-10-05",
-      "ultimi_avvisi": 0,
+      "visto": "2026-10-12",
+      "ultimi_avvisi": 1,
       "falliti_di_fila": 0
     },
     {
@@ -393,7 +503,7 @@
       "enti": [
         "CENTRALE UNICA DI COMMITTENZA - ALTO TIRRENO COSENTINO"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 1,
       "falliti_di_fila": 0
     },
@@ -402,7 +512,7 @@
       "enti": [
         "COMUNE DI GALLARATE"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 0,
       "falliti_di_fila": 0
     },
@@ -411,7 +521,7 @@
       "enti": [
         "ENTE REG PER IL DIRITTO ALLO STUDIO UNIV"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 0,
       "falliti_di_fila": 0
     },
@@ -420,7 +530,7 @@
       "enti": [
         "PRESIDENZA DEL CONSIGLIO DEI MINISTRI"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 3,
       "falliti_di_fila": 0
     },
@@ -429,7 +539,7 @@
       "enti": [
         "FORMEZ PA"
       ],
-      "visto": "2026-10-05",
+      "visto": "2026-10-12",
       "ultimi_avvisi": 2,
       "falliti_di_fila": 0
     },
@@ -497,6 +607,15 @@
       "falliti_di_fila": 0
     },
     {
+      "base": "https://pomezia-appalti.maggiolicloud.it/PortaleAppalti/",
+      "enti": [
+        "STAZIONE UNICA APPALTANTE CITTA' DI POMEZIA - CITTA' DI APRILIA"
+      ],
+      "visto": "2026-10-05",
+      "ultimi_avvisi": 6,
+      "falliti_di_fila": 0
+    },
+    {
       "base": "https://portaleappalti-comuneribera-ag.maggiolicloud.it/PortaleAppalti/",
       "enti": [
         "COMUNE DI RIBERA"
@@ -542,104 +661,58 @@
       "falliti_di_fila": 0
     },
     {
-      "base": "https://portaleappalti.smatorino.it/PortaleAppalti/",
+      "base": "https://appalti-ast5ap.sanita.marche.it/PortaleAppalti/",
       "enti": [
-        "SOCIETA' METROPOLITANA ACQUE TORINO S.P.A. IN ALTERNATIVA SMA TORINO S.P.A. OVVERO SMAT S.P.A."
+        "AZIENDA SANITARIA TERRITORIALE DI ASCOLI PICENO"
       ],
-      "visto": "2026-09-28",
-      "ultimi_avvisi": 4,
-      "falliti_di_fila": 0
+      "visto": null,
+      "falliti_di_fila": 1,
+      "ultimo_fallimento": "2026-10-05"
     },
     {
-      "base": "https://portalegare.avmspa.it/PortaleAppalti/",
+      "base": "https://appaltisuam.regione.marche.it/PortaleAppalti/",
       "enti": [
-        "VE.LA SPA"
+        "ENTE REGIONE MARCHE"
       ],
-      "visto": "2026-09-28",
-      "ultimi_avvisi": 7,
-      "falliti_di_fila": 0
+      "visto": null,
+      "falliti_di_fila": 1,
+      "ultimo_fallimento": "2026-10-05"
     },
     {
-      "base": "https://portvenice-appalti.maggiolicloud.it/PortaleAppalti/",
+      "base": "https://gare.comune.montecchio-maggiore.vi.it/PortaleAppalti/",
       "enti": [
-        "AUTORITA' DI SISTEMA PORTUALE DEL MARE ADRIATICO SETTENTRIONALE"
+        "CENTRALE UNICA DI COMMITTENZA M.B.M.V"
       ],
-      "visto": "2026-09-28",
-      "ultimi_avvisi": 3,
-      "falliti_di_fila": 0
+      "visto": null,
+      "falliti_di_fila": 1,
+      "ultimo_fallimento": "2026-10-05"
     },
     {
-      "base": "https://prov-taranto.maggiolicloud.it/PortaleAppalti/",
+      "base": "https://garetelematiche.tecnoservicecamere.it/PortaleAppalti/",
       "enti": [
-        "PROVINCIA DI TARANTO"
+        "TECNOSERVICECAMERE S.C.P.A."
       ],
-      "visto": "2026-09-28",
-      "ultimi_avvisi": 2,
-      "falliti_di_fila": 0
+      "visto": null,
+      "falliti_di_fila": 1,
+      "ultimo_fallimento": "2026-10-05"
     },
     {
-      "base": "https://provincia-novara.maggiolicloud.it/PortaleAppalti/",
+      "base": "https://gtprmc.regione.marche.it/PortaleAppalti/",
       "enti": [
-        "STAZIONE APPALTANTE UNICA PROVINCIA DI NOVARA"
+        "PROVINCIA DI MACERATA"
       ],
-      "visto": "2026-09-28",
-      "ultimi_avvisi": 9,
-      "falliti_di_fila": 0
+      "visto": null,
+      "falliti_di_fila": 1,
+      "ultimo_fallimento": "2026-10-05"
     },
     {
-      "base": "https://provinciasp-appalti.maggiolicloud.it/PortaleAppalti/",
+      "base": "https://portaleappalti-asppalermo.maggiolicloud.it/PortaleAppalti/",
       "enti": [
-        "PROVINCIA DELLA SPEZIA"
+        "A.S.P. AZIENDA SANITARIA PROVINCIALE"
       ],
-      "visto": "2026-09-28",
-      "ultimi_avvisi": 0,
-      "falliti_di_fila": 0
-    },
-    {
-      "base": "https://provviterbo-appalti.maggiolicloud.it/PortaleAppalti/",
-      "enti": [
-        "AMMINISTRAZIONE PROVINCIALE DI VITERBO"
-      ],
-      "visto": "2026-09-28",
-      "ultimi_avvisi": 6,
-      "falliti_di_fila": 0
-    },
-    {
-      "base": "https://sangiorgioacremano-appalti.maggiolicloud.it/PortaleAppalti/",
-      "enti": [
-        "COMUNE DI SAN GIORGIO A CREMANO"
-      ],
-      "visto": "2026-09-28",
-      "ultimi_avvisi": 3,
-      "falliti_di_fila": 0
-    },
-    {
-      "base": "https://strettodimessina-appalti.maggiolicloud.it/PortaleAppalti/",
-      "enti": [
-        "STRETTO DI MESSINA - S.P.A."
-      ],
-      "visto": "2026-09-28",
-      "ultimi_avvisi": 2,
-      "falliti_di_fila": 0
-    },
-    {
-      "base": "https://www.comune.codigoro.fe.it/PortaleAppalti/",
-      "enti": [
-        "COMUNE DI CODIGORO"
-      ],
-      "visto": "2026-09-28",
-      "ultimi_avvisi": 1,
-      "falliti_di_fila": 0
-    },
-    {
-      "base": "https://www.suaprovinciapotenza.it/PortaleAppalti/",
-      "enti": [
-        "COMUNE DI PIETRAGALLA",
-        "PROVINCIA DI POTENZA"
-      ],
-      "visto": "2026-09-28",
-      "ultimi_avvisi": 3,
-      "falliti_di_fila": 0
+      "visto": null,
+      "falliti_di_fila": 1,
+      "ultimo_fallimento": "2026-10-05"
     },
     {
       "base": "https://suaunionelucanalagonegrese.it/PortaleAppalti/",
@@ -649,6 +722,15 @@
       "visto": null,
       "falliti_di_fila": 1,
       "ultimo_fallimento": "2026-09-28"
+    },
+    {
+      "base": "https://unimi.ubuy.cineca.it/PortaleAppalti/",
+      "enti": [
+        "UNIVERSITA' DEGLI STUDI DI MILANO"
+      ],
+      "visto": null,
+      "falliti_di_fila": 1,
+      "ultimo_fallimento": "2026-10-05"
     },
     {
       "base": "https://unipd.ubuy.cineca.it/PortaleAppalti/",
@@ -891,5 +973,5 @@
       "ultimo_fallimento": "2026-09-07"
     }
   ],
-  "aggiornato": "2026-10-05"
+  "aggiornato": "2026-10-12"
 }
